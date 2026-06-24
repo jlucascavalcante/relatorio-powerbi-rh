@@ -6,6 +6,10 @@ Dashboard de análise de composição de quadro de funcionários, com foco em di
 
 Apoiar o time de RH no diagnóstico da composição do quadro técnico, dos padrões de disponibilidade para hora extra e dos níveis de envolvimento no trabalho — informações que orientam ações de retenção e planejamento de capacidade da equipe.
 
+## 📸 Preview do Dashboard
+
+![Preview do Dashboard](imagens/preview.png)
+
 ## 🔍 Principais insights
 
 - **Quadro fortemente concentrado em um único cargo.** Cientistas de Dados representam 638 dos 1.400 funcionários (45,6%) — quase a metade da empresa em uma única função, o que é uma composição de equipe atípica e sugere uma organização centrada em produto de dados/tecnologia.
